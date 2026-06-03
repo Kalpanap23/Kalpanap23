@@ -26,10 +26,13 @@ A women safety application developed as a mini project to enhance personal secur
 
 A simple Task Manager web application built using HTML, CSS, and JavaScript. It helps users add, manage, and organize tasks efficiently.
 
-### Blogging Website
+### 🎯 Hangman Game (Python)
 
-Developed a blogging website using HTML, CSS, and JavaScript that allows users to create, view, and manage blog content through a simple and user-friendly interface.
+This is a simple yet interactive Hangman Game built using Python. The project demonstrates core programming concepts such as loops, conditionals, functions, and string manipulation.
 
+### 🤖 ChatBot Project (Python)
+
+This is a simple ChatBot built using Python that can interact with users through basic text-based conversations. The bot responds to user inputs using predefined rules and logic.
 
 ## 📚 Currently Learning
 
